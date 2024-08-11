@@ -1,0 +1,9 @@
+CALLER	: Engine::Engine (C:\Users\user\Desktop\C++\D2D11Game\Core\Engine.cpp, 46)
+INFO	: 시스템 세팅 완료!
+
+CALLER	: Engine::Engine (C:\Users\user\Desktop\C++\D2D11Game\Core\Engine.cpp, 47)
+WARING	: 시스템 세팅 완료!
+
+CALLER	: Engine::Engine (C:\Users\user\Desktop\C++\D2D11Game\Core\Engine.cpp, 48)
+ERROR	: 시스템 세팅 완료!
+
